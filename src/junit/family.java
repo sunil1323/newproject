@@ -27,10 +27,7 @@ public class family {
 		
 	}
 	
-	@Test
-	public void rahul() {
-		System.out.println("rahul");
-	}
+	
 	
 	
 }
